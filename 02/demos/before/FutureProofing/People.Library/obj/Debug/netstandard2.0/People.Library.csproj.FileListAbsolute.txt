@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.deps.json
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.pdb
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.pdb
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.pdb

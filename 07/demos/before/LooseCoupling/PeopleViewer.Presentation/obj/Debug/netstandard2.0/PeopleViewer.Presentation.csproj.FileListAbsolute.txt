@@ -1,0 +1,14 @@
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.deps.json
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PersonRepository.Service.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\Common.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PersonRepository.Service.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.pdb

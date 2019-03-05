@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.deps.json
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.pdb
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.pdb
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csprojAssemblyReference.cache

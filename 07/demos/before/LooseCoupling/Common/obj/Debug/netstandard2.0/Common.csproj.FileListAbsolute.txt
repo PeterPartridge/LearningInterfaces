@@ -1,0 +1,9 @@
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\Common\obj\Debug\netstandard2.0\Common.pdb

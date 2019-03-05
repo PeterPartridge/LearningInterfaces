@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.deps.json
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\bin\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\bin\Debug\netstandard2.0\Common.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.pdb

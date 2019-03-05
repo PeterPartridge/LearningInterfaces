@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\bin\Debug\netstandard2.0\PersonRepository.Caching.deps.json
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\bin\Debug\netstandard2.0\PersonRepository.Caching.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\bin\Debug\netstandard2.0\PersonRepository.Caching.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\bin\Debug\netstandard2.0\Common.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\bin\Debug\netstandard2.0\Common.pdb
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.dll
+D:\Documents\Other\coding\LearningINterfaces\07\demos\before\LooseCoupling\PersonRepository.Caching\obj\Debug\netstandard2.0\PersonRepository.Caching.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\bin\Debug\netcoreapp2.1\OddNumbers.deps.json
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\bin\Debug\netcoreapp2.1\OddNumbers.runtimeconfig.json
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\bin\Debug\netcoreapp2.1\OddNumbers.runtimeconfig.dev.json
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\bin\Debug\netcoreapp2.1\OddNumbers.dll
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\bin\Debug\netcoreapp2.1\OddNumbers.pdb
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.dll
+D:\Documents\Other\coding\LearningINterfaces\05\demos\before\ExplicitImplementation\OddNumbers\obj\Debug\netcoreapp2.1\OddNumbers.pdb

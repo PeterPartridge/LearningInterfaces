@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.deps.json
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.pdb
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.pdb

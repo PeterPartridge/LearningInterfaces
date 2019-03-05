@@ -1,0 +1,17 @@
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.deps.json
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.json
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.dev.json
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.pdb
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.pdb
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorTargetAssemblyInfo.cache
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.dll
+D:\Documents\Other\coding\LearningINterfaces\04\demos\before\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.pdb

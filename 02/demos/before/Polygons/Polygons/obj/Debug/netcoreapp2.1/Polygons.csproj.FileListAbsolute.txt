@@ -1,0 +1,14 @@
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.deps.json
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.runtimeconfig.json
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.runtimeconfig.dev.json
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.pdb
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.Library.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\bin\Debug\netcoreapp2.1\Polygons.Library.pdb
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.dll
+D:\Documents\Other\coding\LearningINterfaces\02\demos\before\Polygons\Polygons\obj\Debug\netcoreapp2.1\Polygons.pdb

@@ -1,0 +1,12 @@
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.deps.json
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.pdb
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csprojAssemblyReference.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csproj.CoreCompileInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.AssemblyInfoInputs.cache
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.AssemblyInfo.cs
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csproj.CopyComplete
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.dll
+D:\Documents\Other\coding\LearningINterfaces\03\demos\before\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.pdb
